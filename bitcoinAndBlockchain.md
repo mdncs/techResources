@@ -1,4 +1,9 @@
 
+Most comprehensive collection of resources on Bitcoin:
+BITCOIN RESOURCES
+https://lopp.net/bitcoin.html
+
+
 1. Bitcoin & The Point of No Return – George Kikvadze – Medium
 https://medium.com/@BitfuryGeorge/bitcoin-the-point-of-no-return-a214f6c919e1
 
