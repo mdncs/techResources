@@ -42,6 +42,9 @@ https://medium.com/javascript-scene/10-interview-questions-every-javascript-deve
 14. GitHub - getify/You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.
 https://github.com/getify/You-Dont-Know-JS
 
+15. Please stop using console.log(), it’s broken… – Hacker Noon
+https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15
+
 Python
 
 1. Getting started with Python programming | Opensource.com
